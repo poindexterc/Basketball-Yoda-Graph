@@ -1,13 +1,13 @@
 Basketball Yoda Graph
 =====================
 ## Utilizes a graph to select the basketball players which have proven to play best with one another. Weekend hack project done in 3 hours.
-# REQUIRES: 
-#   - networkx (Available here: http://networkx.lanl.gov/download.html)
-#   - csv
-#   - math
-#   - Players Lists (included)
+### REQUIRES: 
+####   - networkx (Available here: http://networkx.lanl.gov/download.html)
+####   - csv
+####   - math
+####   - Players Lists (included)
 
-Copyright 2012 Colin Poindexter
+## Copyright 2012 Colin Poindexter
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
